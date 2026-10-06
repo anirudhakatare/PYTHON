@@ -17,6 +17,6 @@
 
 # basic question 
 
-# num = int(input("enter the number upto which you want to print the number: "))
-# for i in range(1,num+1):
-#     print(i)
+num = int(input("enter the number upto which you want to print the number: "))
+for i in range(1,num+1):
+    print(i)
