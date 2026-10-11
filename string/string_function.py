@@ -16,3 +16,4 @@ print(text.replace("fun","easy"))
 
 print(text.split(","))
 
+print(",".join(['Python is fun and fun to learn']))
