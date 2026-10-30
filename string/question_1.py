@@ -2,13 +2,13 @@ a = "how is your mother"
 count = 0
 
 # by  using count 
-# for i in range(len(a)-1,-1,-1):
-#     if a[i] != " ":
-#         count = count+1
-#     else:
-#         break
+for i in range(len(a)-1,0,-1):
+    if a[i] != " ":
+        count = count+1
+    else:
+        break
     
-# print(count)
+print(count)
 
 
 # by slicing
