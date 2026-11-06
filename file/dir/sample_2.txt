@@ -1,0 +1,10 @@
+Python is a powerful programming language.
+I am learning Python programming.
+File handling is an important Python concept.
+We can create, read, write, and append files.
+Python makes file operations easy.
+I am practicing file handling today.
+My goal is to become a Data Scientist.
+Learning something new every day improves my skills.
+Consistency is the key to success.
+Practice makes programming easier.
